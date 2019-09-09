@@ -1,4 +1,7 @@
-﻿# QLOCKWORK
+# Note
+For convenience, I converted the whole project into a [Platformio](https://platformio.org) project supporting Visual Studio Code. The new project and the code can be found [here](https://github.com/cschuwerk/QlockWiFivePIO).
+
+# QLOCKWORK
 ### An advanced firmware for a DIY "word-clock".
 
 Qlockwork is an ESP8266 (NodeMCU or WeMos D1 mini) firmware for a so called "word-clock".
